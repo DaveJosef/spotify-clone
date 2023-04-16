@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+<p align="center">
+  <img width="60%" src="./Screenshot.png" alt="First Look" />
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
